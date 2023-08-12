@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un reporsitorio del modulo2 del prep course de Henry
+Este es un proyecto de prueba de como crear un reporsitorio y clorarlo desde github a mi computadora
